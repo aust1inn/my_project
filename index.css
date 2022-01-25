@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+}
+
+#block_1{
+    display: flex;
+    width: 40%;
+}
+#logo{
+    height: fit-content;
+}
+#Bur{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+#ger{
+    color: darkgoldenrod;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: cursive;
+}
+.very_top{
+    background: linear-gradient(100deg ,white 60%, yellow 50%);
+    height: 60vh;
+    width: 1200px;
+}
+#block_2 a{ 
+    margin-left: 7em;
+}
+#burger_1{
+    float: right;
+}
+
+
+   #Lorem_1 , #Lorem_2 , #Lorem_3 {
+       width: 390px;
+       float: left;
+       margin: 10px;
+       display: flexbox;
+   }
+   #our_menu{
+       text-align: center;
+       font-weight: bolder;
+   }
+   .options_1 {
+       display: flex;
+
+   }
+   .Lorem{
+       text-align: center;
+       display: flex;
+       margin-top: 5%;
+       margin-bottom: 10%;
+   }
+   #Lorem_1 ,#Lorem_2 ,#Lorem_3 {
+       border: groove;
+       border-radius: 10px;
+
+   }
+   #menu_1 , #menu_3 , #menu_2 , #menu_4 , #menu_5 , #menu_6{
+       border: groove;
+       border-radius: 10px;
+       width: 30%;
+       padding: 10px;
+       height: 300px;
+   }
+   .double{
+       display: flex;
+       margin-top: 80px;
+       justify-content: space-around;
+   }
+   .discover{
+       background-color: darkorange;
+       justify-content: space-around;
+       display: flex;
+       height: 500px;
+       width: 1200px;
+       align-items: center;
+   }
+
+   #discover_text{
+       align-items: center;
+   }
+ .discover_img{
+     height: 400px;
+     width: 300px;
+ }
