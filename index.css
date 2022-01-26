@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 header {
     display: flex;
     justify-content: space-between;
@@ -33,9 +34,9 @@ header {
     font-family: cursive;
 }
 .very_top{
-    background: linear-gradient(100deg ,white 60%, yellow 50%);
+    background: linear-gradient(100deg ,white 50%, yellow 50%);
     height: 60vh;
-    width: 1200px;
+    width: 1000px;
 }
 #block_2 a{ 
     margin-left: 7em;
@@ -44,12 +45,10 @@ header {
     float: right;
 }
 
-
    #Lorem_1 , #Lorem_2 , #Lorem_3 {
        width: 390px;
-       float: left;
        margin: 10px;
-       display: flexbox;
+       display: flex;
    }
    #our_menu{
        text-align: center;
@@ -57,7 +56,16 @@ header {
    }
    .options_1 {
        display: flex;
+       justify-content: space-around;
 
+   }
+   .options_2{
+       margin-top: 10px;
+       display: flex;
+       justify-content: space-around;
+   }
+   .options{
+       width: 1000px;
    }
    .Lorem{
        text-align: center;
@@ -73,10 +81,10 @@ header {
    #menu_1 , #menu_3 , #menu_2 , #menu_4 , #menu_5 , #menu_6{
        border: groove;
        border-radius: 10px;
-       width: 30%;
-       padding: 10px;
-       height: 300px;
+       height: 250px;
+       align-content: center;
    }
+
    .double{
        display: flex;
        margin-top: 80px;
@@ -87,7 +95,7 @@ header {
        justify-content: space-around;
        display: flex;
        height: 500px;
-       width: 1200px;
+       width: 1000px;
        align-items: center;
    }
 
@@ -97,4 +105,14 @@ header {
  .discover_img{
      height: 400px;
      width: 300px;
+ }
+ .bottom{
+     display: flex;
+     justify-content: space-around;
+     margin-top: 30px;
+ }
+ .footer{
+     display: flex;
+     justify-content: space-between;
+     margin-top: 30px;
  }
