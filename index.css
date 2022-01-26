@@ -39,12 +39,21 @@ header {
     width: 1000px;
 }
 #block_2 a{ 
-    margin-left: 7em;
+    margin-left: 5em;
 }
 #burger_1{
     float: right;
 }
+#rain{
+    font-size: xx-large;
+}
 
+#Rain{
+    margin-top: 60px;
+}
+#cook{
+    margin-top: 35px;
+}
    #Lorem_1 , #Lorem_2 , #Lorem_3 {
        width: 390px;
        margin: 10px;
