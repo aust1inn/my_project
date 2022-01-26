@@ -66,6 +66,7 @@ header {
    }
    .options{
        width: 1000px;
+       font-size: smaller;
    }
    .Lorem{
        text-align: center;
@@ -76,13 +77,16 @@ header {
    #Lorem_1 ,#Lorem_2 ,#Lorem_3 {
        border: groove;
        border-radius: 10px;
-
+       font-size: smaller;
+       display: flex;
+       flex-direction: column;
+       align-items: center;
    }
+
    #menu_1 , #menu_3 , #menu_2 , #menu_4 , #menu_5 , #menu_6{
        border: groove;
        border-radius: 10px;
        height: 250px;
-       align-content: center;
    }
 
    .double{
