@@ -1,4 +1,16 @@
-# Burger Palace
+# Table of Contents
+  -Description
+  
+  -Installation
+  
+  -Development
+  
+  -Requirements
+  
+  -License
+
+## Description
+### Burger Palace
 This is a project to design a visually appealing website for Burger Palace Firm
 ## Installation
 An HTML file was used to create the website
