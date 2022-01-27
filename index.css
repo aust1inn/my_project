@@ -5,7 +5,6 @@
     
 }
 
-
 header {
     display: flex;
     justify-content: space-between;
@@ -42,9 +41,19 @@ header {
 }
 #block_2 a{ 
     margin-left: 5em;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#block_2{
+    margin-right: 5%;
+    margin-top: 2%;
 }
 #burger_1{
     float: right;
+}
+#big{
+    margin-right: 25%;
 }
 #rain{
     font-size: 30px;
