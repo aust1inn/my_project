@@ -54,6 +54,14 @@ header {
 #cook{
     margin-top: 35px;
 }
+.order{
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px 10px 0 10px;
+    height: 30px;
+    width: 100px;
+}
    #Lorem_1 , #Lorem_2 , #Lorem_3 {
        width: 390px;
        margin: 10px;
