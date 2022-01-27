@@ -88,6 +88,14 @@ header {
        color: orange;
        font-size: x-large;
    }
+
+   #menu_line{
+       height: 7px;
+       width: 50px;
+       background-color: orange;
+       margin-left: 48%;
+       margin-bottom: 15px;
+   }
    .options_1 {
        display: flex;
        justify-content: space-around;
