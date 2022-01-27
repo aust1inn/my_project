@@ -47,7 +47,8 @@ header {
     float: right;
 }
 #rain{
-    font-size: xx-large;
+    font-size: 30px;
+    font-weight: bolder;
 }
 
 #Rain{
@@ -58,6 +59,7 @@ header {
     margin-top: 35px;
     color: palevioletred;
     font-size: 13px;
+    font-weight: bold;
 }
 .order{
     background-color: orange;
