@@ -92,8 +92,9 @@ header {
        margin-left: 7px;
    }
    .options{
-       width: 1000px;
+       width: 900px;
        font-size: smaller;
+       margin-left: 50px;
    }
    .Lorem{
        text-align: center;
@@ -115,6 +116,7 @@ header {
        border-radius: 10px;
        height: 250px;
        margin-left: 3px;
+       width: 33%;
    }
 
    .mm{
