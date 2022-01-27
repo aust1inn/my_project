@@ -140,6 +140,8 @@ header {
 
    #discover_text{
        align-items: center;
+       font-weight: bold;
+       font-size: xx-large;
    }
  .discover_img{
      height: 400px;
