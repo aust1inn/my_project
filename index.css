@@ -80,6 +80,14 @@ header {
        text-align: center;
        font-weight: bolder;
    }
+
+   #Our{
+       font-size: x-large;
+   }
+   #Menu_t{
+       color: orange;
+       font-size: x-large;
+   }
    .options_1 {
        display: flex;
        justify-content: space-around;
