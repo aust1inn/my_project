@@ -1,6 +1,9 @@
 # Burger Palace
 This is a project to design a visually appealing website for Burger Palace Firm
 ## Installation
+An HTML file was used to create the website
+
+A CSS file was used to style and polish the website
 ## Development
 Want to contribute? Great!
 
@@ -45,3 +48,8 @@ Copyright (c) [2022] [Austin Omondi]
  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  SOFTWARE.
+ 
+## Authors Info
+Austin Otieno Omondi
+
+email at austinotieno364@gmail.com
