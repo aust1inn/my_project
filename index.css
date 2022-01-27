@@ -146,7 +146,7 @@ header {
        display: flex;
        margin-top: 80px;
        justify-content: space-around;
-       
+   
    }
    .discover{
        background-color: darkorange;
@@ -196,4 +196,19 @@ height: 20px;
      display: flex;
      justify-content: space-between;
      margin-top: 30px;
+ }
+
+ #The_Double{
+     font-size: xx-large;
+     font-weight: bolder;
+ }
+ #Decker{
+     font-size: xx-large;
+     color: orange;
+     font-weight: bolder;
+ }
+
+ #mouth{
+     margin-top: 15px;
+     color: grey;
  }
