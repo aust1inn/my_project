@@ -19,6 +19,8 @@ header {
 #block_1{
     display: flex;
     width: 40%;
+    margin-top: 10px;
+    margin-left: 20px;
 }
 #logo{
     height: fit-content;
@@ -49,10 +51,13 @@ header {
 }
 
 #Rain{
-    margin-top: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
 }
 #cook{
     margin-top: 35px;
+    color: palevioletred;
+    font-size: 13px;
 }
 .order{
     background-color: orange;
@@ -62,6 +67,7 @@ header {
     height: 30px;
     width: 100px;
     margin-top: 20px;
+    border: orange;
 }
    #Lorem_1 , #Lorem_2 , #Lorem_3 {
        width: 390px;
